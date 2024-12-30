@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SystemManager.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="PrimaryColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">84, 66, 142</Value>
+    </Setting>
+    <Setting Name="SecondryColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">175, 227, 192</Value>
+    </Setting>
+    <Setting Name="Font" Type="System.Drawing.Font" Scope="User">
+      <Value Profile="(Default)">Century Gothic, 11.25pt</Value>
+    </Setting>
+    <Setting Name="ResourceUsage" Type="System.Byte" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="PrimaryTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="SecondryTextColor" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">Black</Value>
+    </Setting>
+    <Setting Name="TablesPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\kobyl\Desktop\Apps\Software\Sentry\DB</Value>
+    </Setting>
+    <Setting Name="TablesBuferSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1048576</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
